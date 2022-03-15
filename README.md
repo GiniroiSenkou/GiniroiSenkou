@@ -3,4 +3,4 @@
 
 
 
- ### I'm not a coder, I'm a brainstormer 
+ ### I am not a coder, I am a brainstormer!
