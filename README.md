@@ -3,4 +3,4 @@
 
 
 
- ***keep in mind that more than coding efficently my strong point is to brainstorming ideas.*** 
+ # I'm not a coder, I'm a brainstormer 
