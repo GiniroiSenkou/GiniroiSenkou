@@ -3,4 +3,4 @@
 
 
 
- ### I am not a coder, I'm a brainstormer! (Nowadays is "Vibe-Coder")
+ ### I am not a coder, I'm a brainstormer! (Nowadays "Vibe-Coder")
